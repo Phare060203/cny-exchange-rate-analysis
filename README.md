@@ -20,7 +20,15 @@ This project shows how the Chinese Yuan (CNY) changed against the US Dollar (USD
 - Euro fluctuates more than US Dollar.
 - Data covers less than 5 years, so long-term trend is limited.
 
-5. How to Run
+6. Product Link / Demo
+[Watch the demo video here]
+
+7. Limitations & Next Steps
+-Short time span (only recent years). Next: get longer data from SAFE.
+-Only middle rate used. Next: add high/low and moving averages.
+-No interactive features. Next: build a Streamlit app.
+
+## 5. How to Run
 ```bash
 pip install -r requirements.txt
 jupyter notebook ACC102_Track2_CNY_Analysis.ipynb
