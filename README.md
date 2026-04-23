@@ -21,7 +21,7 @@ This project shows how the Chinese Yuan (CNY) changed against the US Dollar (USD
 - Data covers less than 5 years, so long-term trend is limited.
 
 6. Product Link / Demo
-[Watch the demo video here]
+【https://www.bilibili.com/video/BV1JJohBFEgj/?spm_id_from=333.1387.homepage.video_card.click&vd_source=da3872011f2ffeb0be9ddeaf376d7af0】
 
 7. Limitations & Next Steps
 -Short time span (only recent years). Next: get longer data from SAFE.
